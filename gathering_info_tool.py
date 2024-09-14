@@ -1,3 +1,6 @@
+#Please note that the code contained here is not originally mine. This repository serves as a practice space for me to experiment with different coding techniques, understand various programming concepts, and refine my skills.
+#The purpose of this project is to learn and grow as a developer, and I am using this code as a tool for personal development. If you have any feedback or suggestions for improvement, feel free to share them. Thank you for your understanding and support!
+
 import sys
 import requests
 import socket
